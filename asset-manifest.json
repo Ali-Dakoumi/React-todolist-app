@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ali-dakoumi.github.io/csb-tu98e9/static/css/main.963f2e31.chunk.css",
+    "main.js": "https://ali-dakoumi.github.io/csb-tu98e9/static/js/main.2803108e.chunk.js",
+    "main.js.map": "https://ali-dakoumi.github.io/csb-tu98e9/static/js/main.2803108e.chunk.js.map",
+    "runtime-main.js": "https://ali-dakoumi.github.io/csb-tu98e9/static/js/runtime-main.8cf9e129.js",
+    "runtime-main.js.map": "https://ali-dakoumi.github.io/csb-tu98e9/static/js/runtime-main.8cf9e129.js.map",
+    "static/js/2.b526ba88.chunk.js": "https://ali-dakoumi.github.io/csb-tu98e9/static/js/2.b526ba88.chunk.js",
+    "static/js/2.b526ba88.chunk.js.map": "https://ali-dakoumi.github.io/csb-tu98e9/static/js/2.b526ba88.chunk.js.map",
+    "index.html": "https://ali-dakoumi.github.io/csb-tu98e9/index.html",
+    "static/css/main.963f2e31.chunk.css.map": "https://ali-dakoumi.github.io/csb-tu98e9/static/css/main.963f2e31.chunk.css.map",
+    "static/js/2.b526ba88.chunk.js.LICENSE.txt": "https://ali-dakoumi.github.io/csb-tu98e9/static/js/2.b526ba88.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cf9e129.js",
+    "static/js/2.b526ba88.chunk.js",
+    "static/css/main.963f2e31.chunk.css",
+    "static/js/main.2803108e.chunk.js"
+  ]
+}
